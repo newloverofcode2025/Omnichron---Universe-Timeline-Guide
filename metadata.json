@@ -1,0 +1,6 @@
+{
+  "name": "OmniChron - Universe Timeline Guide",
+  "description": "Next-generation transmedia chronology guide with interactive DAG branching timelines, multi-path journeys, adaptive spoiler shields, binge planning, and community canon stewardship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
